@@ -17,6 +17,7 @@ This repo contains problems related to DP
 | [0509-fibonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repo contains problems related to DP
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Breadth-First Search
 |  |
