@@ -8,7 +8,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;bbbab&quot;
 <strong>Output:</strong> 4
-<strong>Explanation:</strong> One possible longest palindromic subsequence is &quot;bbbb&quot;.
+<strong>Explanation:</strong> One possible longest palindromic subsequence is .&quot;bbbb&quot;.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
