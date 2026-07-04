@@ -7,12 +7,14 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0322-coin-change) |
@@ -65,4 +67,16 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0300-longest-increasing-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
