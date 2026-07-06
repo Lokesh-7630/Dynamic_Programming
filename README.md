@@ -25,6 +25,7 @@ This repo contains problems related to DP
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
+| [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 ## Memoization
 |  |
 | ------- |
@@ -41,6 +42,7 @@ This repo contains problems related to DP
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +104,20 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
+## Queue
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
+## Prefix Sum
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 <!---LeetCode Topics End-->
