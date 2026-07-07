@@ -6,12 +6,14 @@ This repo contains problems related to DP
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
@@ -120,4 +122,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
