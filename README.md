@@ -30,6 +30,7 @@ This repo contains problems related to DP
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 ## Memoization
 |  |
@@ -70,6 +71,7 @@ This repo contains problems related to DP
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Breadth-First Search
 |  |
