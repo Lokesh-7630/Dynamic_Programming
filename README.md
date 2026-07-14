@@ -32,6 +32,7 @@ This repo contains problems related to DP
 | [0518-coin-change-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1092-shortest-common-supersequence) |
@@ -58,6 +59,7 @@ This repo contains problems related to DP
 | [0322-coin-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -67,6 +69,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
