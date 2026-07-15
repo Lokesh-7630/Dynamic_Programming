@@ -10,6 +10,7 @@ This repo contains problems related to DP
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,4 +157,8 @@ This repo contains problems related to DP
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
