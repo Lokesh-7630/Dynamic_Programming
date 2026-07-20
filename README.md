@@ -71,6 +71,7 @@ This repo contains problems related to DP
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
@@ -169,6 +170,7 @@ This repo contains problems related to DP
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -181,4 +183,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
