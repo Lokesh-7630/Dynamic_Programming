@@ -16,6 +16,7 @@ This repo contains problems related to DP
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
@@ -101,6 +102,7 @@ This repo contains problems related to DP
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0516-longest-palindromic-subsequence) |
@@ -191,6 +193,7 @@ This repo contains problems related to DP
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 ## Simulation
 |  |
