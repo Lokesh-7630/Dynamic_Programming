@@ -98,6 +98,7 @@ This repo contains problems related to DP
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repo contains problems related to DP
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,4 +217,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
