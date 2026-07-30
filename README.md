@@ -12,6 +12,7 @@ This repo contains problems related to DP
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1137-n-th-tribonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ This repo contains problems related to DP
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ This repo contains problems related to DP
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
 |  |
