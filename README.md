@@ -83,6 +83,7 @@ This repo contains problems related to DP
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
@@ -140,6 +141,7 @@ This repo contains problems related to DP
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search
 |  |
@@ -168,11 +170,13 @@ This repo contains problems related to DP
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -214,6 +218,7 @@ This repo contains problems related to DP
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Number Theory
