@@ -120,6 +120,7 @@ This repo contains problems related to DP
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
+| [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0583-delete-operation-for-two-strings) |
@@ -137,6 +138,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0101-symmetric-tree) |
+| [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0322-coin-change) |
@@ -228,6 +230,7 @@ This repo contains problems related to DP
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
