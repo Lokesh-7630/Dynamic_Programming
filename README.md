@@ -143,6 +143,7 @@ This repo contains problems related to DP
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search
@@ -172,6 +173,7 @@ This repo contains problems related to DP
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -183,6 +185,7 @@ This repo contains problems related to DP
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Indexed Tree
 |  |
@@ -264,4 +267,16 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0486-predict-the-winner) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
