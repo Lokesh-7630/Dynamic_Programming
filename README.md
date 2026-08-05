@@ -146,6 +146,7 @@ This repo contains problems related to DP
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
@@ -178,6 +179,7 @@ This repo contains problems related to DP
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
@@ -192,6 +194,7 @@ This repo contains problems related to DP
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Indexed Tree
@@ -258,6 +261,7 @@ This repo contains problems related to DP
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
@@ -292,5 +296,10 @@ This repo contains problems related to DP
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
