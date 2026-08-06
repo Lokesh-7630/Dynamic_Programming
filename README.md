@@ -53,6 +53,7 @@ This repo contains problems related to DP
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 ## Memoization
 |  |
@@ -196,6 +197,7 @@ This repo contains problems related to DP
 | ------- |
 | [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Indexed Tree
 |  |
@@ -285,6 +287,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -298,8 +301,10 @@ This repo contains problems related to DP
 | ------- |
 | [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
