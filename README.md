@@ -12,6 +12,7 @@ This repo contains problems related to DP
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -45,6 +46,7 @@ This repo contains problems related to DP
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
@@ -84,6 +86,7 @@ This repo contains problems related to DP
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1043-partition-array-for-maximum-sum) |
@@ -294,6 +297,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 ## Topological Sort
 |  |
 | ------- |
@@ -318,4 +322,12 @@ This repo contains problems related to DP
 | ------- |
 | [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
