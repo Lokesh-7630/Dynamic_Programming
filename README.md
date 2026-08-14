@@ -138,6 +138,7 @@ This repo contains problems related to DP
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -270,6 +271,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
@@ -352,6 +354,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1004-max-consecutive-ones-iii) |
