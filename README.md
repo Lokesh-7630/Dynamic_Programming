@@ -16,6 +16,7 @@ This repo contains problems related to DP
 | [1137-n-th-tribonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1248-count-number-of-nice-subarrays) |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@ This repo contains problems related to DP
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -117,6 +119,7 @@ This repo contains problems related to DP
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -312,6 +315,7 @@ This repo contains problems related to DP
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -328,6 +332,7 @@ This repo contains problems related to DP
 | [0486-predict-the-winner](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 ## Topological Sort
 |  |
 | ------- |
@@ -357,11 +362,13 @@ This repo contains problems related to DP
 | ------- |
 | [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -379,4 +386,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
