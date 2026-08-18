@@ -71,6 +71,7 @@ This repo contains problems related to DP
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0120-triangle) |
@@ -282,6 +283,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
