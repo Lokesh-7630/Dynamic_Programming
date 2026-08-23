@@ -6,6 +6,7 @@ This repo contains problems related to DP
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
@@ -397,6 +398,7 @@ This repo contains problems related to DP
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
