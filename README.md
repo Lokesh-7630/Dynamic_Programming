@@ -77,6 +77,7 @@ This repo contains problems related to DP
 | [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -399,6 +400,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -407,4 +409,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
