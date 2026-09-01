@@ -119,6 +119,7 @@ This repo contains problems related to DP
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3731-find-missing-elements) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
@@ -191,6 +192,7 @@ This repo contains problems related to DP
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -286,6 +288,7 @@ This repo contains problems related to DP
 | [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
 | ------- |
@@ -311,6 +314,7 @@ This repo contains problems related to DP
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -407,6 +411,7 @@ This repo contains problems related to DP
 | [0231-power-of-two](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
