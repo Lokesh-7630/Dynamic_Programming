@@ -167,6 +167,7 @@ This repo contains problems related to DP
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1092-shortest-common-supersequence) |
@@ -344,6 +345,7 @@ This repo contains problems related to DP
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -439,4 +441,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
