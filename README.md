@@ -23,6 +23,7 @@ This repo contains problems related to DP
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ This repo contains problems related to DP
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3731-find-missing-elements) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
