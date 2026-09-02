@@ -165,6 +165,7 @@ This repo contains problems related to DP
 | [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0583-delete-operation-for-two-strings) |
@@ -306,6 +307,7 @@ This repo contains problems related to DP
 | [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0904-fruit-into-baskets) |
