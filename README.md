@@ -76,6 +76,7 @@ This repo contains problems related to DP
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
@@ -159,6 +160,7 @@ This repo contains problems related to DP
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
@@ -445,4 +447,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
