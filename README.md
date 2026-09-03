@@ -142,6 +142,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -167,6 +168,7 @@ This repo contains problems related to DP
 | [0132-palindrome-partitioning-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -309,6 +311,7 @@ This repo contains problems related to DP
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0930-binary-subarrays-with-sum) |
@@ -337,12 +340,14 @@ This repo contains problems related to DP
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -453,4 +458,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
