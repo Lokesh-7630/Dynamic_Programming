@@ -126,6 +126,7 @@ This repo contains problems related to DP
 | [3731-find-missing-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3731-find-missing-elements) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -276,6 +277,7 @@ This repo contains problems related to DP
 | [1140-stone-game-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
+| [3903-smallest-stable-index-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Queue
 |  |
 | ------- |
