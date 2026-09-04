@@ -180,6 +180,7 @@ This repo contains problems related to DP
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -358,6 +359,7 @@ This repo contains problems related to DP
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -456,6 +458,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
