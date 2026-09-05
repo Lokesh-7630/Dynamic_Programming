@@ -78,6 +78,7 @@ This repo contains problems related to DP
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0078-subsets) |
@@ -292,6 +293,7 @@ This repo contains problems related to DP
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
@@ -341,6 +343,7 @@ This repo contains problems related to DP
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
