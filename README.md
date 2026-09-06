@@ -34,6 +34,7 @@ This repo contains problems related to DP
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -166,6 +167,7 @@ This repo contains problems related to DP
 | [0014-longest-common-prefix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0205-isomorphic-strings) |
