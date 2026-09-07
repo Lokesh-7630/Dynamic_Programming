@@ -80,6 +80,7 @@ This repo contains problems related to DP
 | [0014-longest-common-prefix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0078-subsets) |
@@ -144,6 +145,7 @@ This repo contains problems related to DP
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
@@ -480,4 +482,8 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
