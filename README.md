@@ -87,6 +87,7 @@ This repo contains problems related to DP
 | [0120-triangle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0198-house-robber) |
@@ -248,6 +249,7 @@ This repo contains problems related to DP
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -320,6 +322,7 @@ This repo contains problems related to DP
 | [0041-first-missing-positive](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
