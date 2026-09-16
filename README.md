@@ -34,6 +34,7 @@ This repo contains problems related to DP
 | [0064-minimum-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0120-triangle) |
@@ -231,6 +232,7 @@ This repo contains problems related to DP
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
@@ -238,10 +240,12 @@ This repo contains problems related to DP
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0199-binary-tree-right-side-view) |
@@ -471,6 +475,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0095-unique-binary-search-trees-ii) |
 ## Enumeration
 |  |
 | ------- |
