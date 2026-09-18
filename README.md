@@ -109,6 +109,7 @@ This repo contains problems related to DP
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0930-binary-subarrays-with-sum) |
@@ -145,6 +146,7 @@ This repo contains problems related to DP
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
