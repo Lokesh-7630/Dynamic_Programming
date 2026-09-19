@@ -20,6 +20,7 @@ This repo contains problems related to DP
 | [1137-n-th-tribonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -525,4 +526,5 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
