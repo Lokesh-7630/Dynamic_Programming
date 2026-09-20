@@ -211,6 +211,7 @@ This repo contains problems related to DP
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
 |  |
@@ -381,6 +382,7 @@ This repo contains problems related to DP
 | [0054-spiral-matrix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
