@@ -116,6 +116,7 @@ This repo contains problems related to DP
 | [0930-binary-subarrays-with-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1043-partition-array-for-maximum-sum) |
@@ -359,6 +360,7 @@ This repo contains problems related to DP
 | [0904-fruit-into-baskets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -400,6 +402,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -467,6 +470,7 @@ This repo contains problems related to DP
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
