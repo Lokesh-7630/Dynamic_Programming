@@ -206,6 +206,7 @@ This repo contains problems related to DP
 | [1143-longest-common-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -315,6 +316,7 @@ This repo contains problems related to DP
 | [1004-max-consecutive-ones-iii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1590-make-sum-divisible-by-p) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 | [3903-smallest-stable-index-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3903-smallest-stable-index-i) |
@@ -364,6 +366,7 @@ This repo contains problems related to DP
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1590-make-sum-divisible-by-p) |
@@ -483,6 +486,7 @@ This repo contains problems related to DP
 | [0029-divide-two-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0231-power-of-two) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
