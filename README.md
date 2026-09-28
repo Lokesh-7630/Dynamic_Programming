@@ -6,6 +6,7 @@ This repo contains problems related to DP
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0070-climbing-stairs) |
