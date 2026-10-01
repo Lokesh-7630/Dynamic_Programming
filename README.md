@@ -110,6 +110,7 @@ This repo contains problems related to DP
 | [0518-coin-change-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0733-flood-fill) |
@@ -317,6 +318,7 @@ This repo contains problems related to DP
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
 | [3826-minimum-partition-score](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3826-minimum-partition-score) |
 ## Prefix Sum
 |  |
@@ -559,4 +561,12 @@ This repo contains problems related to DP
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1401-circle-and-rectangle-overlapping) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
