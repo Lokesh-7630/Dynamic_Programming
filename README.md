@@ -110,6 +110,7 @@ This repo contains problems related to DP
 | [0518-coin-change-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -156,6 +157,7 @@ This repo contains problems related to DP
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -173,6 +175,7 @@ This repo contains problems related to DP
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -372,6 +375,7 @@ This repo contains problems related to DP
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0930-binary-subarrays-with-sum) |
@@ -412,6 +416,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1631-path-with-minimum-effort) |
@@ -419,6 +424,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
