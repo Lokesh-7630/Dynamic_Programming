@@ -582,6 +582,7 @@ This repo contains problems related to DP
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
