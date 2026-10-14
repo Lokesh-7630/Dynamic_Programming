@@ -406,6 +406,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -577,6 +578,7 @@ This repo contains problems related to DP
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
