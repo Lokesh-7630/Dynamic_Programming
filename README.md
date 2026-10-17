@@ -148,6 +148,7 @@ This repo contains problems related to DP
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -188,6 +189,7 @@ This repo contains problems related to DP
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3731-find-missing-elements) |
 ## Recursion
@@ -408,6 +410,7 @@ This repo contains problems related to DP
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3731-find-missing-elements) |
 ## Two Pointers
