@@ -385,6 +385,7 @@ This repo contains problems related to DP
 | [0127-word-ladder](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
@@ -419,6 +420,7 @@ This repo contains problems related to DP
 | [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -593,6 +595,7 @@ This repo contains problems related to DP
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
