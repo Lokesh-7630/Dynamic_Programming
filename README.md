@@ -421,6 +421,7 @@ This repo contains problems related to DP
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
@@ -594,6 +595,7 @@ This repo contains problems related to DP
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0622-design-circular-queue) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
