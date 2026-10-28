@@ -436,6 +436,7 @@ This repo contains problems related to DP
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0160-intersection-of-two-linked-lists) |
@@ -613,6 +614,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0160-intersection-of-two-linked-lists) |
