@@ -25,6 +25,7 @@ This repo contains problems related to DP
 | [2029-stone-game-ix](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -574,6 +575,7 @@ This repo contains problems related to DP
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
 |  |
