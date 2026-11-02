@@ -15,6 +15,7 @@ This repo contains problems related to DP
 | [0231-power-of-two](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0836-rectangle-overlap) |
@@ -111,6 +112,7 @@ This repo contains problems related to DP
 | [0322-coin-change](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0525-contiguous-array) |
@@ -189,6 +191,7 @@ This repo contains problems related to DP
 | [0148-sort-list](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/Lokesh-7630/Dynamic_Programming/tree/master/1048-longest-string-chain) |
